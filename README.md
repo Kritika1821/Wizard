@@ -1,3 +1,3 @@
 # Wizard
-I am Kritika Dhawan.
-I am here to learn and build.
+I am Kritika Dhawan. <br>
+I am interested in Mathematics, building stuff, data analytics etc. <br>
